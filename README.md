@@ -24,8 +24,8 @@
 <div align=center>
   <div>
     <p>
-<!--        <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast&card_width=100"> -->
-       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast&card_width=300">
+       <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast&card_width=300">
+       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=10&layout=compact&theme=highcontrast&card_width=440">
     </p>
   </div>
   <div>
@@ -35,6 +35,7 @@
   </div>
  
 </div>
+
 
 
 

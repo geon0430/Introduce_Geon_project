@@ -1,8 +1,8 @@
 <div align=left>
 
-  <a href="mailto:jack058725@naver.com">
+  <a href="mailto:adam798973@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jack058725@naver.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:adam798973@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://LCGeon.github.io/">

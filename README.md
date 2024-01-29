@@ -18,24 +18,20 @@
 
 </div>
 
----
-
-  
 <div align=center>
   <div>
     <p>
-<!--        <img src="https://github-readme-stats.vercel.app/api?username=Introduce_Geon_project&show_icons=true&theme=highcontrast&card_width=300">
-       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Introduce_Geon_project&langs_count=10&layout=compact&theme=highcontrast&card_width=440"> -->
+       <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast&card_width=300">
+       <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=10&layout=compact&theme=highcontrast&card_width=440">
     </p>
   </div>
   <div>
      <p>
-      <img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj="Introduce_Geon_project/>
+      <img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=geon0430"/>
     </p>
   </div>
  
 </div>
-
 
 
 ---

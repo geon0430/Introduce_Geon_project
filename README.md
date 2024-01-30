@@ -22,9 +22,10 @@
 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="width: 48%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=10&layout=compact&theme=highcontrast" style="width: 48%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=10&layout=compact&theme=highcontrast" style="height: 180px;">
 </div>
+
 
 <div align="center">
   <img height=195 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=geon0430"/>

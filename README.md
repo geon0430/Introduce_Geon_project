@@ -75,7 +75,6 @@
   
   <h3>※ DBMS </h3>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white"/>
   <br>
   
   <h3>※ Tools </h3>

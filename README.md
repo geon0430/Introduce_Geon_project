@@ -1,4 +1,9 @@
+안녕하세요 MLOps Developer Geon 입니다.
 
+</a>
+<a href="https://portfolio-git-main-geon0430s-projects.vercel.app/">
+    <img alt="포토폴리오" src="https://img.shields.io/badge/포토폴리오-34A853.svg?&style=for-the-badge&logo=googlesheets&logoColor=white"/>
+</a>
 
 <div align=left>
 

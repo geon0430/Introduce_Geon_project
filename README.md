@@ -68,6 +68,7 @@
   <h3>※ Back-end </h3>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Go" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
   <br>
   
   <h3>※ OS </h3>

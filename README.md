@@ -23,8 +23,6 @@
 
 </div>
 
----
-
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="height: 200px;">

@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="height: 200px;">
 </div>
----
 
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
 

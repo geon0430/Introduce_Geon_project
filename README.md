@@ -32,9 +32,12 @@
 
   <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=geon0430&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="height: 190px; width: auto;">
- <!-- Top Contributed Repo -->
-  <img src="https://github-profile-trophy.vercel.app/?username=geon0430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" style="height: 230px; object-fit: contain;">
 </div>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%; box-sizing: border-box;">
+  <img src="https://github-profile-trophy.vercel.app/?username=geon0430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&column=6" style="height: 230px; object-fit: contain;">
+</div>
+
 
 
 

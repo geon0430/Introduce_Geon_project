@@ -28,10 +28,10 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px; width: 100%; box-sizing: border-box; margin-top: 20px;">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="height: 200px; width: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="height: 190px; width: auto;">
 
   <!-- Top Contributed Repo -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=geon0430&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="height: 200px; width: auto;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=geon0430&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="height: 190px; width: auto;">
 </div>
 
 

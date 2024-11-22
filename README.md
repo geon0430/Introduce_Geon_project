@@ -20,19 +20,20 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%; box-sizing: border-box;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="flex: 1 1 calc(50% - 10px); max-width: 400px; height: 200px; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="height: 230px; object-fit: contain;">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="flex: 1 1 calc(50% - 10px); max-width: 400px; height: 200px; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="height: 230px; object-fit: contain;">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%; box-sizing: border-box; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px; width: 100%; box-sizing: border-box; margin-top: 20px;">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="flex: 1 1 calc(50% - 10px); max-width: 400px; height: 200px; object-fit: contain;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="height: 200px; width: auto;">
 
   <!-- Top Contributed Repo -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=geon0430&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="flex: 1 1 calc(50% - 10px); max-width: 400px; height: 200px; object-fit: contain;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=geon0430&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="height: 200px; width: auto;">
 </div>
+
 
 
 

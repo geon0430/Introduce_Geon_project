@@ -1,33 +1,39 @@
 안녕하세요 MLOps Developer Geon 입니다.
 
-<div align=left>
+<div align="left">
+  <a href="https://portfolio-git-main-geon0430s-projects.vercel.app/">
+    <img alt="포토폴리오" src="https://img.shields.io/badge/포토폴리오-34A853.svg?&style=for-the-badge&logo=googlesheets&logoColor=white"/>
   </a>
-     <a href="https://portfolio-git-main-geon0430s-projects.vercel.app/">
-         <img alt="포토폴리오" src="https://img.shields.io/badge/포토폴리오-34A853.svg?&style=for-the-badge&logo=googlesheets&logoColor=white"/>
-     </a>
   <a href="mailto:adam798973@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:adam798973@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://LCGeon.github.io/">
+      src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:adam798973@gmail.com"
+      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://visitcount.itsvg.in">
     <img 
-        src="https://img.shields.io/badge/blog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a>
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white"/>
-</a>
-
+      src="https://visitcount.itsvg.in/api?id=geon0430&icon=6&color=11" 
+      alt="Visitor Count" 
+      style="height: auto; margin-left: 10px; margin-right: 10px;"
+    />
+  </a>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="height: 200px;">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
 </div>
+
+<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geon0430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy">
+</div>
+
 
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
 
@@ -50,6 +56,7 @@
   <h3>※ Multimedia Libraries </h3>
   <img alt="GStreamer" src="https://img.shields.io/badge/GStreamer-FF3131.svg?&style=for-the-badge&logo=GStreamer&logoColor=white"/>
   <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808.svg?&style=for-the-badge&logo=FFmpeg&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <br>
   
   <h3>※ Back-end </h3>

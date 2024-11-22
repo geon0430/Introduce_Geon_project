@@ -18,22 +18,21 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto; white-space: nowrap;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=geon0430&show_icons=true&theme=highcontrast" style="flex-shrink: 0; width: 30%; min-width: 250px;  height: 200px;">
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geon0430&langs_count=20&layout=compact&theme=highcontrast"  style="flex-shrink: 0; width: 30%; min-width: 250px;  height: 200px;">
+
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geon0430&theme=merko&hide_border=false" style="flex: 1 1 0; max-width: 300px; min-width: 200px; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSourav323&theme=merko&hide_border=false"  style="flex-shrink: 0; width: 30%; min-width: 250px; height: 200px;">
 </div>
 
 <!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geon0430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy">
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=geon0430&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophy" style="display: inline-block;">
 </div>
-
 
 <div align=left><h1>❖ TECH STACKS ❖</h1></div>
 
